@@ -4,7 +4,7 @@
   "version": "2.2.4",
   "repository": {
     "type": "git",
-    "url": "git://github.com/substack/node-falafel.git"
+    "url": "https://github.com/shreyasch/node-falafel.git"
   },
   "main": "index.js",
   "keywords": [
